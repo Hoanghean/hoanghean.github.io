@@ -1,0 +1,21 @@
+{
+    "short_name": "NDH.io.vn",
+    "name": "Nguyễn Đức Hoàng - NDH.io.vn - H2Co.",
+    "description": "Nguyễn Đức Hoàng - NDH.io.vn - H2Co.",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "assets/images/ndh.ico",
+        "sizes": "500x500",
+        "type": "image/png"
+      },
+      {
+        "src": "assets/images/bg.png",
+        "sizes": "1920x1200",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "index.html",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
+  }
