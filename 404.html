@@ -16,7 +16,7 @@
 let us = window.location.href.split("/")
 let key = us[us.length - 1]
 let xhttp = new XMLHttpRequest()
-xhttp.open("GET", `https://ndhblogapi-default-rtdb.asia-southeast1.firebasedatabase.app/shorten/${key}.json`, false)
+xhttp.open("GET", `https://ndhiovn-default-rtdb.asia-southeast1.firebasedatabase.app/shorten/${key}.json`, false)
 xhttp.send()
 let url = JSON.parse(xhttp.responseText)
 if (url) {
