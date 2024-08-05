@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ndh.io.vn",
+  "Id": "143d539c-9d20-4eba-834a-4785b2c6b418"
+}
